@@ -1,0 +1,15 @@
+{
+  "name": "genpark-message-passing-weisfeiler-lehman-skill",
+  "version": "1.0.0",
+  "description": "1-Weisfeiler-Lehman (1-WL) graph isomorphism test and neighborhood color refinement engine quantifying graph neural network expressivity.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "weisfeiler-lehman",
+    "gnn",
+    "graph-isomorphism",
+    "message-passing"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
